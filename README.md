@@ -1,2 +1,5 @@
 # hello-world
-The first and the last?
+
+The first and the last?...
+
+...Piece of coding to enjoy and partake in a greetly digital community...
